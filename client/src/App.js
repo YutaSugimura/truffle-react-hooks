@@ -93,5 +93,3 @@ export default () => {
     </div>
   );
 }
-
-export default App;
